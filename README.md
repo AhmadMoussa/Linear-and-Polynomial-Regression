@@ -32,7 +32,7 @@ print("Mean squared error: ", np.sum(error)/len(b))
     
 
 
-![png](AhmadMoussaAssignment1_files/AhmadMoussaAssignment1_1_1.png)
+![png](https://i.imgur.com/eFzd2A1.png)
 
 
 ### 1. Compute the hessian and make sure it is semi-definite positive:
@@ -153,7 +153,7 @@ plt.show()
 ```
 
 
-![png](AhmadMoussaAssignment1_files/AhmadMoussaAssignment1_5_0.png)
+![png](https://i.imgur.com/fuiek6C.png)
 
 
 #### Let's go back to using the least squares method:
@@ -209,7 +209,7 @@ print("Mean squared error:",np.sum(error)/len(b))
 ```
 
 
-![png](AhmadMoussaAssignment1_files/AhmadMoussaAssignment1_7_0.png)
+![png](https://i.imgur.com/fNWs30F.png)
 
 
     Mean squared error: 0.8
@@ -285,7 +285,7 @@ descent(x,y)
 ```
 
 
-![png](AhmadMoussaAssignment1_files/AhmadMoussaAssignment1_9_0.png)
+![png](https://i.imgur.com/Mv6Lgf1.png)
 
 
 #### Extending Gradient descent to polynomials:
@@ -363,7 +363,7 @@ descent(A, b, iterations, descent_rate, order)
 ```
 
 
-![png](AhmadMoussaAssignment1_files/AhmadMoussaAssignment1_11_0.png)
+![png](https://i.imgur.com/9hvlcq2.png)
 
 
 #### Experimenting with number of iterations and step size for gradient descent:
@@ -442,7 +442,7 @@ descent(A, b, iterations, descent_rate, order)
 ```
 
 
-![png](AhmadMoussaAssignment1_files/AhmadMoussaAssignment1_13_0.png)
+![png](https://i.imgur.com/GT64lib.png)
 
 
 ### 3. Print the error for both models. Which model performs better?
@@ -495,7 +495,7 @@ print("Rounded Mean Squared Error:", round(np.sum(error)/len(b)))
 ```
 
 
-![png](AhmadMoussaAssignment1_files/AhmadMoussaAssignment1_16_0.png)
+![png](https://i.imgur.com/gbPzNR7.png)
 
 
     Mean squared error: 2.344908762292088e-26
@@ -546,7 +546,7 @@ print("Rounded Mean Squared Error:", round(np.sum(error)/len(b)))
 ```
 
 
-![png](AhmadMoussaAssignment1_files/AhmadMoussaAssignment1_19_0.png)
+![png](https://i.imgur.com/fj9EMXL.png)
 
 
     Mean squared error: 536.2012157858026
@@ -629,7 +629,7 @@ descent(A, b, iterations, descent_rate, order)
 ```
 
 
-![png](AhmadMoussaAssignment1_files/AhmadMoussaAssignment1_21_0.png)
+![png](https://i.imgur.com/IMfxafC.png)
 
 
 We can see that, compared to the cubic function, we are still getting a perfect fit that is maybe a little more skewed and angular than the cubic fit. I would assume the error is still very low and negligible after observing this graph.
