@@ -1,10 +1,5 @@
-
-Ahmad Moussa
-
-ID: 5119FG10
-
-Graphics Optimization assignment 1
-
+AHMAD MOUSSA
+Linear and Polynomial Regression
 
 ```python
 %matplotlib inline
